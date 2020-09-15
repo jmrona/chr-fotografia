@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Vuetify
+@import '~vuetify/dist/vuetify.min.css';
+@import '~@mdi/font/css/materialdesignicons.min.css';
+
+//SweetAlert2
+@import '~sweetalert2/dist/sweetalert2.min.css';
+
+//Toast notification
+// @import '~vue-toast-notification/dist/theme-default.css';
+@import '~vue-toast-notification/dist/theme-sugar.css';
